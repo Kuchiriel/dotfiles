@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+#Exec=gnome-session-quit --power-off
+Exec=xfce4-session-logout
+Name=Desligar
+Comment=Desligar o computador
+Categories=System;
+Icon=system-shutdown
+MimeType=x-scheme-handler/tg;
